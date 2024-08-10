@@ -4,4 +4,5 @@
 - The research aims to figure out whether or not prior AR experience impacts the educational impact
 - The research's main App is a pokemon like game where you catches animals.
 - The Animal's information is shared after the capture, wherein it's presented in a dialogue-esque manner
-- There's a separate mode called 3D mode where the animals 
+- There's a separate mode called 3D mode where the animals are instead displayed in a completely virtual environment
+- The environment is based on the Animal's habitat
